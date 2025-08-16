@@ -1,4 +1,7 @@
+
 # 👋 Hi, I’m Minidu Sathsara Maduranga  
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=3A9BDC&width=600&lines=Hi%2C+I'm+Minidu+Sathsara;Frontend+Developer+%7C+WordPress+%7C+PHP;Love+Coding+%26+Creative+Animations)](https://git.io/typing-svg)
 
 🎓 **Undergraduate Computer Science Software Engineer (BSc Hons, University of Westminster)**  
 💻 **Software Developer | Frontend Developer | WordPress & PHP Developer**  
@@ -13,8 +16,6 @@ I’m a passionate **WordPress and PHP Developer** with over a year of hands-on 
 - 🔹 Advanced animations using **GSAP (GreenSock), AOS, Blobz**  
 - 🔹 SEO optimization and website performance tuning  
 - 🔹 Troubleshooting and solving complex coding challenges  
-
-Currently, I’m sharpening my skills in **Laravel, JavaScript, and MySQL**, while working on freelance and internship projects.  
 
 ---
 
@@ -35,25 +36,25 @@ Currently, I’m sharpening my skills in **Laravel, JavaScript, and MySQL**, whi
 ## ⚡ Tech Stack  
 
 **Languages & Frameworks:**  
-- PHP | HTML5 | CSS | WordPress  
+PHP | HTML5 | CSS | WordPress  
 
 **Scripting:**  
-- JavaScript | jQuery  
+JavaScript | jQuery  
 
 **Front-End Tools:**  
-- Bootstrap | Tailwind  
+Bootstrap | Tailwind  
 
 **Databases:**  
-- MySQL | SQL  
+MySQL | SQL  
 
 **Web/App Servers:**  
-- cPanel | XAMPP | Atom  
+cPanel | XAMPP | Atom  
 
 **Animation & Interaction:**  
-- GSAP | AOS | Blobz  
+GSAP | AOS | Blobz  
 
 **Version Control & CI/CD:**  
-- GitHub | Bitbucket  
+GitHub | Bitbucket  
 
 ---
 
@@ -62,6 +63,21 @@ Currently, I’m sharpening my skills in **Laravel, JavaScript, and MySQL**, whi
 - 🔗 LinkedIn: [linkedin.com/in/minidu-liyanage-88a91b22b](https://www.linkedin.com/in/minidu-liyanage-88a91b22b/)  
 - 🌐 Portfolio: [vermillion-twilight-6aa8c2.netlify.app](https://vermillion-twilight-6aa8c2.netlify.app/)  
 - 📍 Colombo, Sri Lanka  
+
+---
+
+## 📊 GitHub Stats & Activity  
+
+![Minidu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Minidu-Sathsara&show_icons=true&theme=tokyonight)  
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Minidu-Sathsara&theme=tokyonight)  
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Minidu-Sathsara&layout=compact&theme=tokyonight)  
+
+---
+
+## 🐍 Contribution Graph Animation  
+![Snake animation](https://github.com/Minidu-Sathsara/Minidu-Sathsara/blob/output/github-contribution-grid-snake.svg)  
 
 ---
 
